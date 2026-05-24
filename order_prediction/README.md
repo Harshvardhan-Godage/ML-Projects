@@ -1,19 +1,19 @@
 # 📦 Order Prediction
 
-Machine Learning project for predicting order demand and sales trends using historical business data.
+Machine Learning project for predicting order demand and analyzing sales trends using historical business data and visualization techniques.
 
 ---
 
 # 📌 Project Overview
 
-This project analyzes order and sales-related data to predict future demand using machine learning techniques and data analysis.
+This project focuses on analyzing sales and order-related data to understand business trends and predict future order demand using machine learning and data analysis techniques.
 
 The project includes:
 - Data preprocessing
 - Exploratory Data Analysis (EDA)
-- Feature Engineering
+- Visualization of sales trends
+- Store type analysis
 - Prediction modeling
-- Visualization techniques
 
 ---
 
@@ -23,6 +23,7 @@ The project includes:
 - NumPy
 - Pandas
 - Matplotlib
+- Plotly
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
@@ -31,15 +32,15 @@ The project includes:
 
 # 📊 Data Visualization
 
-## Sales Analysis
+## Sales Distribution
 
-![Sales Analysis](sales_analysis.png)
+![Sales Distribution](sales_distribution.png)
 
 ---
 
-## Prediction Graph
+## Store Type Distribution
 
-![Prediction Graph](prediction_graph.png)
+![Store Type Distribution](store_type_distribution.png)
 
 ---
 
@@ -47,15 +48,16 @@ The project includes:
 
 - Data Cleaning
 - Data Visualization
+- Feature Engineering
 - Regression Models
-- Trend Analysis
+- Sales Trend Analysis
 - Prediction Systems
 
 ---
 
 # 📈 Model Evaluation
 
-The model performance was analyzed using prediction accuracy and visualization techniques.
+The project evaluates prediction performance using data analysis and visualization methods.
 
 ---
 
